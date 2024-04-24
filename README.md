@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
-<!---
-Nunny56/Nunny56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Nunny56/Nunny56 is a repository because its `README (this file) appears on your GitHub profile.
+You can click the Preview link to take at your changes.
+
